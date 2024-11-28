@@ -16937,7 +16937,7 @@
           "arcs": [[-68, -87, 94, 95, 96, 97, 98, 99, 100, -82]],
           "type": "Polygon",
           "properties": {
-            "district": "Tiruchirappalli",
+            "district": "Thiruchirappalli",
             "dt_code": "614",
             "st_nm": "Tamil Nadu",
             "st_code": "33",
@@ -16959,7 +16959,7 @@
           "arcs": [[-73, 103, 104, 105, -88]],
           "type": "Polygon",
           "properties": {
-            "district": "Tiruppur",
+            "district": "Tirupur",
             "dt_code": "633",
             "st_nm": "Tamil Nadu",
             "st_code": "33",
@@ -17047,7 +17047,7 @@
           "arcs": [[-127, 129, 130, 131, 132]],
           "type": "Polygon",
           "properties": {
-            "district": "Thoothukkudi",
+            "district": "Thoothukudi",
             "dt_code": "627",
             "st_nm": "Tamil Nadu",
             "st_code": "33",
@@ -17104,7 +17104,7 @@
           "arcs": [[-98, -158, 158, -125, -120]],
           "type": "Polygon",
           "properties": {
-            "district": "Sivaganga",
+            "district": "SIVAGANGA",
             "dt_code": "622",
             "st_nm": "Tamil Nadu",
             "st_code": "33",
@@ -17115,7 +17115,7 @@
           "arcs": [[-126, -159, -157, 161, -130]],
           "type": "Polygon",
           "properties": {
-            "district": "Ramanathapuram",
+            "district": "RAMANATHAPURAM",
             "dt_code": "626",
             "st_nm": "Tamil Nadu",
             "st_code": "33",
@@ -17148,7 +17148,7 @@
           "arcs": [[-128, -133, 166, 167, 168, 169]],
           "type": "Polygon",
           "properties": {
-            "district": "Tenkasi",
+            "district": "TENKASI",
             "dt_code": "0",
             "st_nm": "Tamil Nadu",
             "st_code": "33",
@@ -18160,7 +18160,7 @@
           "arcs": [[-514, 516, 517, 518]],
           "type": "Polygon",
           "properties": {
-            "district": "Kasaragod",
+            "district": "Kasargud",
             "dt_code": "588",
             "st_nm": "Kerala",
             "st_code": "32",
@@ -18314,7 +18314,7 @@
           "arcs": [[554, -553, -172, -135]],
           "type": "Polygon",
           "properties": {
-            "district": "Thiruvananthapuram",
+            "district": "Trivandrum",
             "dt_code": "601",
             "st_nm": "Kerala",
             "st_code": "32",
@@ -23034,7 +23034,7 @@
           "arcs": [[-1735, -1778, 1942, -1739]],
           "type": "Polygon",
           "properties": {
-            "district": "Koderma",
+            "district": "Kodarma",
             "dt_code": "348",
             "st_nm": "Jharkhand",
             "st_code": "20",
@@ -24307,7 +24307,7 @@
           "arcs": [[-1215, 2261, -2242, -2166, -2213, -2261, 2262, 2263, 2264]],
           "type": "Polygon",
           "properties": {
-            "district": "Hanumangarh",
+            "district": "Haunaumangarh",
             "dt_code": "100",
             "st_nm": "Rajasthan",
             "st_code": "08",
