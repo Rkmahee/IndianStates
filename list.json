@@ -23966,7 +23966,7 @@
           "properties": {
             "district": "Uttarkashi",
             "dt_code": "056",
-            "st_nm": "UTTARAKHAND",
+            "st_nm": "Uttarakhand",
             "st_code": "05",
             "year": "2011_c"
           }
@@ -24032,7 +24032,7 @@
           "properties": {
             "district": "Chamoli",
             "dt_code": "057",
-            "st_nm": "UTTARAKHAND",
+            "st_nm": "Uttarakhand",
             "st_code": "05",
             "year": "2011_c"
           }
@@ -24043,7 +24043,7 @@
           "properties": {
             "district": "Dehradun",
             "dt_code": "060",
-            "st_nm": "UTTARAKHAND",
+            "st_nm": "Uttarakhand",
             "st_code": "05",
             "year": "2011_c"
           }
@@ -24100,7 +24100,7 @@
           "properties": {
             "district": "Tehri Garhwal",
             "dt_code": "059",
-            "st_nm": "UTTARAKHAND",
+            "st_nm": "Uttarakhand",
             "st_code": "05",
             "year": "2011_c"
           }
@@ -24133,7 +24133,7 @@
           "properties": {
             "district": "Rudraprayag",
             "dt_code": "058",
-            "st_nm": "UTTARAKHAND",
+            "st_nm": "Uttarakhand",
             "st_code": "05",
             "year": "2011_c"
           }
@@ -24144,7 +24144,7 @@
           "properties": {
             "district": "Pithoragarh",
             "dt_code": "062",
-            "st_nm": "UTTARAKHAND",
+            "st_nm": "Uttarakhand",
             "st_code": "05",
             "year": "2011_c"
           }
@@ -24254,7 +24254,7 @@
           "properties": {
             "district": "Bageshwar",
             "dt_code": "063",
-            "st_nm": "UTTARAKHAND",
+            "st_nm": "Uttarakhand",
             "st_code": "05",
             "year": "2011_c"
           }
@@ -24265,7 +24265,7 @@
           "properties": {
             "district": "Haridwar",
             "dt_code": "068",
-            "st_nm": "UTTARAKHAND",
+            "st_nm": "Uttarakhand",
             "st_code": "05",
             "year": "2011_c"
           }
@@ -24276,7 +24276,7 @@
           "properties": {
             "district": "Pauri Garhwal",
             "dt_code": "061",
-            "st_nm": "UTTARAKHAND",
+            "st_nm": "Uttarakhand",
             "st_code": "05",
             "year": "2011_c"
           }
@@ -24331,7 +24331,7 @@
           "properties": {
             "district": "Almora",
             "dt_code": "064",
-            "st_nm": "UTTARAKHAND",
+            "st_nm": "Uttarakhand",
             "st_code": "05",
             "year": "2011_c"
           }
@@ -24397,7 +24397,7 @@
           "properties": {
             "district": "Nainital",
             "dt_code": "066",
-            "st_nm": "UTTARAKHAND",
+            "st_nm": "Uttarakhand",
             "st_code": "05",
             "year": "2011_c"
           }
@@ -24419,7 +24419,7 @@
           "properties": {
             "district": "Champawat",
             "dt_code": "065",
-            "st_nm": "UTTARAKHAND",
+            "st_nm": "Uttarakhand",
             "st_code": "05",
             "year": "2011_c"
           }
@@ -24430,7 +24430,7 @@
           "properties": {
             "district": "Udham Singh Nagar",
             "dt_code": "067",
-            "st_nm": "UTTARAKHAND",
+            "st_nm": "Uttarakhand",
             "st_code": "05",
             "year": "2011_c"
           }
@@ -25226,11 +25226,11 @@
           ],
           "type": "Polygon",
           "properties": {
-            "st_nm": "UTTARAKHAND",
+            "st_nm": "Uttarakhand",
             "st_code": "05",
             "year": "2011_c"
           },
-          "id": "UTTARAKHAND"
+          "id": "Uttarakhand"
         },
         {
           "arcs": [[-2195, 2208]],
